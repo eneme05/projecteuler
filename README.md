@@ -1,2 +1,3 @@
 # projecteuler
-Repository for the solution of project euler
+Repository for the solutions of project euler
+https://projecteuler.net/archives
